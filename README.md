@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Lucas and I'm a Software Engineering student at Fiap College, from Brazil </p>
+<p align="left">My name is Lucas and I'm a Software Engineering student at Fiap College, from SP/Brazil </p>
 
 ###
 
