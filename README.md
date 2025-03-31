@@ -2,6 +2,8 @@
 
 ## Estudante de Engenharia de Software na FIAP
 
+Sou estudante de Engenharia de Software na FIAP, com foco em **desenvolvimento web**. Tenho experiência prática em várias tecnologias e estou buscando oportunidades para aplicar meus conhecimentos tanto em **frontend** quanto em **backend**. Meu objetivo é crescer profissionalmente, contribuir para projetos desafiadores e continuar aprendendo.
+
 ## 🛠 Tecnologias que eu uso
 
 ### 💻 Linguagens
@@ -22,10 +24,5 @@
 
 ## 📬 Entre em contato comigo
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/SEU_LINKEDIN](https://www.linkedin.com/in/lucas-cortizo-51985b325/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-cortizo-51985b325/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:lucascortizo768@gmail.com)
-
-## ⚡ Funções em Projetos
-
-Estou sempre à procura de aplicar meus conhecimentos em projetos reais. Se você está buscando alguém para colaborar ou mesmo para fazer parte de sua equipe, fique à vontade para entrar em contato!
-
