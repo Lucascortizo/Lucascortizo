@@ -1,8 +1,6 @@
 # Olá, eu sou o Lucas Cortizo! 👋
 
-## Estudante de Engenharia de Software
-
-![Github Stats](https://github-readme-stats.vercel.app/api?username=Lucascortizo&show_icons=true&theme=radical)
+## Estudante de Engenharia de Software na FIAP
 
 ## 🛠 Tecnologias que eu uso
 
